@@ -12,7 +12,7 @@ Experience with web application projects, REST APIs, software architectures, and
 I have experience in developing and maintaining software applications, with expertise in various programming languages and frameworks, constantly looking to expand my skillset and keep up-to-date with the latest technology trends. I am a team player and enjoy collaborating with others to achieve common goals. I value communication and believe that active listening and sharing ideas leads to better outcomes.
 
 ### Languages and Tools
-<img align="left" alt="Java" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Docker" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="HTML" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -28,7 +28,6 @@ I have experience in developing and maintaining software applications, with expe
 <img align="left" alt="Git" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /><br /><br />
 <img align="left" alt="Flutter" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Android" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
