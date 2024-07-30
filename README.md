@@ -28,7 +28,7 @@ I have experience in developing and maintaining software applications, with expe
 <img align="left" alt="Git" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /><br />
+<br /><br /><br />
 <img align="left" alt="Flutter" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Android" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="margin: 3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
