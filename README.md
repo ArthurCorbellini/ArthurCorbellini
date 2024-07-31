@@ -13,6 +13,6 @@ I have experience in developing and maintaining software applications, with expe
 
 ## Stats
 <div align=left>
-  <img width=334 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorbellini&hide=jupyter%20notebook,cmake,pug&langs_count=8&theme=gruvbox&exclude_repo=github-readme-stats&layout=compact" alt="top langs" />
+  <img width=334 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorbellini&hide=jupyter%20notebook,cmake,pug&langs_count=8&theme=gruvbox&layout=compact" alt="top langs" />
   <img width=507 src="https://github-readme-stats.vercel.app/api?username=ArthurCorbellini&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github" alt="github stats" />
 </div>
